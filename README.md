@@ -67,7 +67,7 @@ Governance Logic: Weighted scoring of quality improvement vs. latency regression
 
 Installation & Usage
 1. Clone the Repository
-git clone https://github.com/yourusername/llm-drift-adaptation-pipeline.git
+git clone (https://github.com/AbhishekGitBot/LLM-Drift-Detection-Adaptation-Pipeline.git)
 cd llm-drift-adaptation-pipeline
 
 2. Install Dependencies
