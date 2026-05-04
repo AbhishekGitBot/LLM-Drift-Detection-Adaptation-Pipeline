@@ -85,7 +85,7 @@ Phase 2: Add multi-agent recovery orchestration using LangGraph for complex drif
 Phase 3: Implement federated drift detection across distributed LLM deployments.
 
 
-Portfolio & Contact
+
 Built by Abhishek — AI Research Engineer & Technical Writer
 
 LinkedIn: https://www.linkedin.com/in/abhiisheksharrma/
