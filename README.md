@@ -88,5 +88,5 @@ Phase 3: Implement federated drift detection across distributed LLM deployments.
 Portfolio & Contact
 Built by Abhishek — AI Research Engineer & Technical Writer
 
-LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/abhiisheksharrma/)
+LinkedIn: https://www.linkedin.com/in/abhiisheksharrma/
 Email: sharrmaabhishek1@gmail.com
